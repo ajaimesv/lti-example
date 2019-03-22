@@ -5,7 +5,8 @@ An LTI example using PHP.
 
 ## Instructions
 
-Point your browser to `lms.php`.
+1. Clone the project to a directory available to apache/nginx
+2. Point your browser to `lms.php`.
 
 
 ## References
