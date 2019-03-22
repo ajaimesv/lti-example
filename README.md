@@ -2,6 +2,12 @@
 
 An LTI example using PHP.
 
+
+## Instructions
+
+Point your browser to `lms.php`.
+
+
 ## References
 
 - Hilborn, Michael. https://github.com/moodle/moodle/tree/master/enrol/lti
